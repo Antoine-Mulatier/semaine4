@@ -1,0 +1,27 @@
+.flex{
+    display: flex;
+}
+
+.haut{
+    justify-content: center;
+}
+
+.bloc{
+    
+    justify-content: center;
+    
+}
+
+.mid{
+    display: flex;
+    justify-content: space-between;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+}
+
+.middle{
+    justify-content: center;
+}
